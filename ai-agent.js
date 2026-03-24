@@ -27,10 +27,12 @@ const analyzeGoal = async () => {
     const propmt = `User wants to learn ${ goalText } within ${ duration } days create a structured learning/execution plan`
     try {
         const completion = await openai.chat.completions.create( {
-            model: "stepfun/step-3.5-flash:free",
+            model: "gpt-4o-mini",
             messages: [
+                { role: "system", content: "You are an expert web developer" },
                 { role: "user", content: propmt }
             ],
+            temperature: 0.7
         } )
 
         console.log( completion.choices[ 0 ].message.content )
