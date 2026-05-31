@@ -26,9 +26,6 @@ Get ready to master Agentic AI and build a production-ready task execution agent
 
 If you have any questions or get stuck along the way, jump into our community for support. If you want, you can share your progress there.
 
-Community Link: https://www.facebook.com/groups/1605135160451720
-
-GitHub Repository Link: https://github.com/Apollo-Level2-Web-Dev/agentic-ai-crash-course
 ‎
 Here are some important links you may find useful for this project:
 
