@@ -21,10 +21,6 @@ Temperature: 0.7 - 1. How creative behavior it shown
 
 
 
-Welcome to the squad! 😎
-Get ready to master Agentic AI and build a production-ready task execution agent from scratch.
-
-If you have any questions or get stuck along the way, jump into our community for support. If you want, you can share your progress there.
 
 ‎
 Here are some important links you may find useful for this project:
@@ -41,3 +37,35 @@ A unified API gateway that allows you to access multiple LLM providers through a
 
 These tools will help you quickly integrate and experiment with different AI models while building Agentic AI applications.
 Previous
+
+
+Initial Server Setup (Express + CORS + dotenv)
+Basic backend server configuration using Express with environment variables and CORS support.
+
+Installation
+npm install express cors dotenv
+What’s Included
+Express server initialization
+CORS middleware setup
+dotenv configuration for environment variables
+Reference Code
+https://github.com/Apollo-Level2-Web-Dev/agentic-ai-crash-course/commit/cefe9487d136f1598151bd0c599ac0683c3ff7de
+
+Storage Module (Goals, Tasks & Progress)
+A modular system to manage:
+
+Goals
+Tasks
+Progress
+This acts as the foundation for building Agentic AI workflows, where the system can track objectives and execution flow.
+
+Key Responsibilities
+Create & manage goals
+Break goals into tasks
+Track progress updates
+Reference Code
+https://github.com/Apollo-Level2-Web-Dev/agentic-ai-crash-course/commit/6c650a14883922295b232509e639c690636bd962
+
+💡 Notes
+These resources are part of the foundational setup for the project.
+Future enhancements may include database integration, authentication, and AI-driven logic.
