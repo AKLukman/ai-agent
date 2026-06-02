@@ -37,7 +37,7 @@ Basic backend server configuration using Express with environment variables and 
 ### Installation
 
 ```bash
-npm install express cors dotenv
+npm install express cors dotenv nodemon
 ```
 
 ### What’s Included
