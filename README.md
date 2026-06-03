@@ -48,8 +48,6 @@ npm install express cors dotenv nodemon
 
 ### Reference Code
 
-[https://github.com/Apollo-Level2-Web-Dev/agentic-ai-crash-course/commit/cefe9487d136f1598151bd0c599ac0683c3ff7de](https://github.com/Apollo-Level2-Web-Dev/agentic-ai-crash-course/commit/cefe9487d136f1598151bd0c599ac0683c3ff7de)
-
 ---
 
 ## Storage Module (Goals, Tasks & Progress)
